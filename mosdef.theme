@@ -39,7 +39,7 @@ abstracts = {
   ## messages
   ##
 
-  msgnick = "%c$0%c$1%c>%N ";
+  msgnick = "%c$0%c$1%c>%N %|";
   ownmsgnick = "{msgnick $0 $1}";
   ownnick = "%N$0%N";
 
